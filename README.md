@@ -1,6 +1,6 @@
 # GolangEcommerce
 E-commerce website with end-to-end functionalities.
-Tech Stack:
-Backend: Golang.
-DB: MongoDB.
-API: REST
+\n Tech Stack:
+\n Backend: Golang.
+\n DB: MongoDB.
+\n API: REST
