@@ -1,4 +1,4 @@
 # (c) Copyright 2023, Shaunak Sensarma.
 
-# GolangEcommerce
-E-commerce website with end-to-end functionalities.
+# GolangEcommerceBackend
+E-commerce website with end-to-end backend functionalities.
